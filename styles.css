@@ -698,12 +698,13 @@ img {
       }
       
     }
-    .loyalty-map {
+   .loyalty-map {
   position: relative;
   width: 100%;
-  padding-bottom: 100%; 
-  height: 50%;
+  padding-bottom: 150%; 
+  overflow: hidden;
 }
+
 
 .loyalty-map iframe {
   position: absolute;
