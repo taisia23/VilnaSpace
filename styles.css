@@ -698,10 +698,10 @@ img {
       }
       
     }
-.loyalty-map {
+    .loyalty-map {
   position: relative;
   width: 100%;
-  padding-bottom: 80%; 
+  padding-bottom: 90%; 
   height: 0;
   overflow: hidden;
 }
@@ -714,4 +714,3 @@ img {
   height: 100%;
   border: none;
 }
-
