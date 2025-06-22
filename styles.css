@@ -698,3 +698,20 @@ img {
       }
       
     }
+.loyalty-map {
+  position: relative;
+  width: 100%;
+  padding-bottom: 80%; 
+  height: 0;
+  overflow: hidden;
+}
+
+.loyalty-map iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: none;
+}
+
