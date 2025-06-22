@@ -714,7 +714,6 @@ img {
   display: block;
 }
 
-
 @media (max-width: 768px) {
   .loyalty-map-container iframe {
     height: 450px;
