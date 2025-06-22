@@ -698,25 +698,20 @@ img {
       }
       
     }
-.responsive-iframe-container {
-  position: relative;
+ .loyalty-map-container {
   width: 100%;
-  padding-bottom: 56.25%; /* 16:9 */
-  height: 0;
-  overflow: hidden;
-  border-radius: 12px;
-  box-shadow: 0 4px 16px rgba(0,0,0,0.1);
-  margin: 0 auto;
   max-width: 1000px;
+  margin: 0 auto;
+  padding: 0 16px;
 }
 
-.responsive-iframe-container iframe {
-  position: absolute;
-  top: 0;
-  left: 0;
+.loyalty-map-container iframe {
   width: 100%;
-  height: 100%;
+  height: 600px;
   border: none;
+  border-radius: 12px;
+  box-shadow: 0 4px 16px rgba(0,0,0,0.1);
+  display: block;
 }
 
 
