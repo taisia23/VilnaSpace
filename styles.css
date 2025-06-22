@@ -706,7 +706,7 @@ img {
 
 .loyalty-map iframe {
   width: 100%;
-  height: 200vh; 
+  height: 100%; 
   border: none;
   display: block;
 }
